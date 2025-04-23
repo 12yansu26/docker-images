@@ -1,5 +1,9 @@
 nginx
 mysql
+debian:11.2
+ubuntu:18.04
+centos:7.9.2009
+alpine:latest
 
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
